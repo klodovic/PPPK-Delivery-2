@@ -1,0 +1,73 @@
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\bin\Debug\Zadatak.exe.config
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\bin\Debug\Zadatak.exe
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\bin\Debug\Zadatak.pdb
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\PersonManager.csproj.AssemblyReference.cache
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\MainWindow.baml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\EditPersonPage.g.cs
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\ListPeoplePage.g.cs
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\MainWindow.g.cs
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\App.g.cs
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\Zadatak_MarkupCompile.cache
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\Zadatak_MarkupCompile.lref
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\App.baml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\EditPersonPage.baml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\ListPeoplePage.baml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\Zadatak.g.resources
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\Zadatak.Properties.Resources.resources
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\PersonManager.csproj.GenerateResource.cache
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\PersonManager.csproj.CoreCompileInputs.cache
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\Zadatak.exe
+C:\Users\Next Design\Desktop\PPPK\Vježbe\PPPK_Vjezbe0304\Vjezbe0304\PersonManager\obj\Debug\Zadatak.pdb
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\bin\Debug\Zadatak.exe.config
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\bin\Debug\Zadatak.exe
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\bin\Debug\Zadatak.pdb
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\PersonManager.csproj.AssemblyReference.cache
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\PersonManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\MainWindow.baml
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\EditPersonPage.g.cs
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\EditShoesPage.g.cs
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\ListPeoplePage.g.cs
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\MainWindow.g.cs
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\ShoesListPage.g.cs
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\App.g.cs
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\Zadatak_MarkupCompile.cache
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\Zadatak_MarkupCompile.lref
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\App.baml
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\EditPersonPage.baml
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\EditShoesPage.baml
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\ListPeoplePage.baml
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\ShoesListPage.baml
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\Zadatak.g.resources
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\Zadatak.Properties.Resources.resources
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\PersonManager.csproj.GenerateResource.cache
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\PersonManager.csproj.CoreCompileInputs.cache
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\Zadatak.exe
+C:\Users\Next Design\Desktop\PPPK - Projekt\People_Manager\PersonManager\obj\Debug\Zadatak.pdb
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\bin\Debug\Zadatak.exe.config
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\bin\Debug\Zadatak.exe
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\bin\Debug\Zadatak.pdb
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\PersonManager.csproj.AssemblyReference.cache
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\PersonManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\MainWindow.baml
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\EditPersonPage.g.cs
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\EditShoesPage.g.cs
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\ListPeoplePage.g.cs
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\MainWindow.g.cs
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\ShoesListPage.g.cs
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\App.g.cs
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\Zadatak_MarkupCompile.cache
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\Zadatak_MarkupCompile.lref
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\App.baml
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\EditPersonPage.baml
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\EditShoesPage.baml
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\ListPeoplePage.baml
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\ShoesListPage.baml
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\Zadatak.g.resources
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\Zadatak.Properties.Resources.resources
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\PersonManager.csproj.GenerateResource.cache
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\PersonManager.csproj.CoreCompileInputs.cache
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\Zadatak.exe
+C:\Users\Next Design\Desktop\PPPK-Delivery-2\People_Manager\PersonManager\obj\Debug\Zadatak.pdb
